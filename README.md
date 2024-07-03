@@ -29,3 +29,4 @@
 2. 將csv檔放入local資料庫或上雲(串google sheet API自動更新?)
 3. 圖像化使用者介面(GUI)
 4. local server建置
+5. 視覺化圖表：日報表、月報表、支出與收入分析
